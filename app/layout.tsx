@@ -11,8 +11,8 @@ const font = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Coders Wire",
-  description: "All in One Solution Company.",
+  title: "Obaid Ullah",
+  description: "A Professional Web Developer.",
 };
 
 export default function RootLayout({
